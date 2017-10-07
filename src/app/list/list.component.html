@@ -1,0 +1,20 @@
+<form>
+
+    <md-card>
+      <md-card-title>
+        Please enter your details.
+      </md-card-title>
+      <md-input-container>
+        <input mdInput placeholder="Name" name="name" [(ngModel)]="coffee.name">
+      </md-input-container>
+      <md-input-container>
+        <input mdInput placeholder="Mobile number" name="mobile" [(ngModel)]="coffee.mobile">
+      </md-input-container>
+    </md-card> 
+  
+    <md-card>
+      <button md-raised-button color="primary" (click)="save()">Save</button>
+      <button md-raised-button color="warn" (click)="delete()">Clear</button>
+    </md-card>
+  
+  </form>
