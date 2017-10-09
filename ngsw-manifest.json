@@ -25,7 +25,7 @@
       {
         "name": "api",
         "urls": {
-          "https://202.88.154.118:4201/tasks": {
+          "https://cryptic-ocean-16653.herokuapp.com/tasks": {
             "match": "prefix"
           }
         },
@@ -46,19 +46,19 @@
   "static": {
     "urls": {
       "https://sveltoz.github.io/feedbackapp/polyfills.35726d60cdf25fecc5f1.bundle.js": "1e4779eb00ffdcce4c9f4f6f7ca69d60d101b2ab",
-      "https://sveltoz.github.io/feedbackapp/main.ac71499f09b8c3d23629.bundle.js": "4c68228d529e775e7e2739156425037003e8cb39",
+      "https://sveltoz.github.io/feedbackapp/main.330bbf7fe2fb50049daf.bundle.js": "a0f849291acad416da388f1989b6c38ae2dd7634",
       "https://sveltoz.github.io/feedbackapp/sw-register.6819cd2c5fa25470ecf2.bundle.js": "50d549edfbd188ed199d8d0b079afa593202e3ea",
       "https://sveltoz.github.io/feedbackapp/vendor.97b9daaef136b886f6e0.bundle.js": "1a7145b4d4a2d72807323578228120e6d8dc8a34",
-      "https://sveltoz.github.io/feedbackapp/inline.6f7b92ce2dc508462255.bundle.js": "5f4165dd54694e5c333fd5e43c6ef73b2f9aff11",
+      "https://sveltoz.github.io/feedbackapp/inline.e8adc62da88dec7da187.bundle.js": "2384cf8b2c6c0efc24b1ca7e93c8af0371784de7",
       "https://sveltoz.github.io/feedbackapp/styles.5c5f2be46a7f14f36d93.bundle.css": "c4924c6b7198d7b78c9a76bfe32ff5396e9d478c",
       "https://sveltoz.github.io/feedbackapp/manifest.json": "2948cc6ec085c4e6d99ba7b86a56535d4441e96f",
       "https://sveltoz.github.io/feedbackapp/icons/icon_144.png": "b39fc1ac395cea6245b6f2eb59e76d9fe11f5eec",
-      "https://sveltoz.github.io/feedbackapp/icons/icon_192.png": "2a884d09d0661bd72e5d0ab1f41a9ed0cb4dcafe",
       "https://sveltoz.github.io/feedbackapp/icons/icon_512.png": "5f8d02c6aca3f10a76c4e1ce869f8485a5a41b5f",
+      "https://sveltoz.github.io/feedbackapp/icons/icon_192.png": "2a884d09d0661bd72e5d0ab1f41a9ed0cb4dcafe",
       "https://sveltoz.github.io/feedbackapp/icons/icon_96.png": "8439cec43025efda8ced76721bae97291a5bb0e6",
-      "https://sveltoz.github.io/feedbackapp/icons/icon_ios_120.png": "d4987bb020409fbdf71d066c4ac259ba77c05fd6",
       "https://sveltoz.github.io/feedbackapp/icons/icon_ios_180.png": "58bbea5b50acbe5e255e06ae032da1365192f4cf",
-      "https://sveltoz.github.io/feedbackapp/index.html": "02c3e30b12779bcedba81aa977f07a2cf808d0a9"
+      "https://sveltoz.github.io/feedbackapp/icons/icon_ios_120.png": "d4987bb020409fbdf71d066c4ac259ba77c05fd6",
+      "https://sveltoz.github.io/feedbackapp/index.html": "3ff1a894b0448053ad45bae8d0496882a8de4b39"
     },
     "_generatedFromWebpack": true
   }
