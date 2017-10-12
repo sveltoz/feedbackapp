@@ -46,10 +46,10 @@
   "static": {
     "urls": {
       "https://sveltoz.github.io/feedbackapp/polyfills.35726d60cdf25fecc5f1.bundle.js": "1e4779eb00ffdcce4c9f4f6f7ca69d60d101b2ab",
-      "https://sveltoz.github.io/feedbackapp/main.6b95891b82e1c09371ed.bundle.js": "2bfbb2c1784fccca11a5e6d9a3b5887fed9542ff",
+      "https://sveltoz.github.io/feedbackapp/main.d1b0cb2f4ab6351d5cd0.bundle.js": "e6a82f476f47137a91b16452069aa11675530e21",
       "https://sveltoz.github.io/feedbackapp/sw-register.6819cd2c5fa25470ecf2.bundle.js": "50d549edfbd188ed199d8d0b079afa593202e3ea",
       "https://sveltoz.github.io/feedbackapp/vendor.33759d9225f1f78b9405.bundle.js": "cc53cda324206f1e2ecfd1add158d50585ec174c",
-      "https://sveltoz.github.io/feedbackapp/inline.31cd05da701f8f8da67d.bundle.js": "7902fdce1449360d8a8648eea12ee8d57d088b0d",
+      "https://sveltoz.github.io/feedbackapp/inline.bcecb317ef85dc627d92.bundle.js": "4ca07c4945af5478ab3f1f876f7004fbe72f70e7",
       "https://sveltoz.github.io/feedbackapp/styles.5c5f2be46a7f14f36d93.bundle.css": "c4924c6b7198d7b78c9a76bfe32ff5396e9d478c",
       "https://sveltoz.github.io/feedbackapp/scripts.c9f5aeeca3ad37bf2aa0.bundle.js": "6f90e94c33e62d1023cc6425eb8ea25908ce8309",
       "https://sveltoz.github.io/feedbackapp/manifest.json": "2948cc6ec085c4e6d99ba7b86a56535d4441e96f",
@@ -59,7 +59,7 @@
       "https://sveltoz.github.io/feedbackapp/icons/icon_192.png": "2a884d09d0661bd72e5d0ab1f41a9ed0cb4dcafe",
       "https://sveltoz.github.io/feedbackapp/icons/icon_ios_180.png": "58bbea5b50acbe5e255e06ae032da1365192f4cf",
       "https://sveltoz.github.io/feedbackapp/icons/icon_ios_120.png": "d4987bb020409fbdf71d066c4ac259ba77c05fd6",
-      "https://sveltoz.github.io/feedbackapp/index.html": "2aa9855e05ca9406bec13d3f5ea2baa60bcb256a"
+      "https://sveltoz.github.io/feedbackapp/index.html": "7727be3e31b2047b3e9684f2c0bc18ae2e16d00b"
     },
     "_generatedFromWebpack": true
   }
