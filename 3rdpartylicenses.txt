@@ -79,6 +79,10 @@ MIT
 MIT
 MIT
 
+angular-4-data-table-bootstrap-4@0.2.0
+MIT
+MIT
+
 process@0.11.10
 MIT
 (The MIT License)
